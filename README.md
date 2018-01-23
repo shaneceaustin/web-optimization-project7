@@ -10,8 +10,8 @@
 ## View
 
 * Download or clone to your CPU
-* Unzip the folder 
-* Open the index.html file in browser 
+* Unzip folder 
+* Open index.html file in browser 
 
 
 
