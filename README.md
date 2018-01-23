@@ -9,7 +9,7 @@
 
 ## View
 
-* Download or clone to your CPU.
+* Download or clone to your CPU
 * Unzip the folder 
 * Open the index.html file in browser 
 
