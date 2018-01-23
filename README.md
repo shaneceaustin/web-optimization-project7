@@ -1,6 +1,6 @@
-## Website Performance Optimization portfolio project
+<h1> Website Performance Optimization portfolio project
 
-<h1> Steps Taken to Optimize <h1>
+## Steps Taken to Optimize 
 
 * Optimized images
 * Commented out google font
