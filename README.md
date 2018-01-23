@@ -4,7 +4,7 @@
 
 * Optimized images
 * Commented out google font
-* Inlined css
+* Inlined CSS
 * Added a media attribute to the print.css
 * Decreased the amount of sliding pizzas
 * Moved scrollTop outside of the for loop
